@@ -1,0 +1,11 @@
+name: validation
+channels:
+  - conda-forge
+dependencies:
+  - requests
+  - pip
+  - python=3.10.*
+  - pandas
+  - plotly
+  - ipywidgets
+  - notebook

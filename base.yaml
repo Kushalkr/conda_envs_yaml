@@ -6,8 +6,8 @@ dependencies:
   - brotlipy=0.7.0
   - bzip2=1.0.8
   - c-ares=1.18.1
-  - ca-certificates=2022.12.7
-  - certifi=2022.12.7
+  - ca-certificates=2023.5.7
+  - certifi=2023.5.7
   - cffi=1.15.1
   - charset-normalizer=3.1.0
   - colorama=0.4.6
@@ -23,7 +23,7 @@ dependencies:
   - krb5=1.20.1
   - libarchive=3.6.2
   - libcurl=8.0.1
-  - libcxx=16.0.2
+  - libcxx=16.0.3
   - libedit=3.1.20191231
   - libev=4.33
   - libffi=3.4.2
@@ -55,7 +55,7 @@ dependencies:
   - reproc=14.2.4
   - reproc-cpp=14.2.4
   - requests=2.29.0
-  - ruamel.yaml=0.17.21
+  - ruamel.yaml=0.17.24
   - ruamel.yaml.clib=0.2.7
   - ruamel_yaml=0.15.80
   - setuptools=67.7.2

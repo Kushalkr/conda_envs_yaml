@@ -276,6 +276,7 @@ dependencies:
       - pyasn1-modules==0.2.8
       - pygments==2.14.0
       - pymysql==1.0.2
+      - pytest-check==2.1.5
       - python-slugify==8.0.1
       - python-utils==3.5.2
       - pyzmq==25.0.0
@@ -320,5 +321,7 @@ dependencies:
       - wcwidth==0.2.6
       - werkzeug==2.2.3
       - wrapt==1.15.0
+      - xhistogram==0.3.2
+      - xskillscore==0.0.24
       - yarl==1.8.2
       - zarr==2.12.0
